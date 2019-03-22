@@ -1,0 +1,25 @@
+{
+  "name": "aya-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronliruonan/aya-electron.git"
+  },
+  "author": "ronli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronliruonan/aya-electron/issues"
+  },
+  "homepage": "https://github.com/ronliruonan/aya-electron#readme",
+  "devDependencies": {
+    "electron": "^4.1.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
